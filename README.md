@@ -19,8 +19,7 @@ Steps to creating my tic-tac-toe game :))
 - I played around with css a lot then opted for a simple look.
 
 
-
-https://github.com/maya-marwa/tic-tac-toe
+https://maya-marwa.github.io/tic-tac-toe/
 
 
 
